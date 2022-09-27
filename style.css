@@ -4,6 +4,75 @@ body {
 }
 
 h1 {
-  margin: 40px;
   color: white;
+  font-weight: 700;
+  margin-top: 25px;
+}
+.content-text {
+  margin-top: 50px;
+}
+p {
+  font-weight: 400;
+}
+.panel-footer {
+  display: flex;
+  margin: 40px auto;
+  justify-content: start;
+  color: #75bdff;
+}
+
+.container {
+  color: #fff;
+}
+
+.panel-body {
+  color: white;
+  text-align: justify;
+}
+.content-data {
+  margin: 0 30px 0 30px;
+}
+
+.bold-title {
+  font-weight: 700;
+}
+
+footer {
+  background-color: #fff;
+  width: 80%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.footer-content {
+  text-align: center;
+  color: #2300b1;
+}
+
+.images-content {
+  margin: 15px 0;
+}
+
+.col-sm-12 {
+  padding-bottom: 25px;
+}
+
+.row {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.page-header__logo {
+  margin-left: 11%;
+}
+.navbar-nav,
+.navbar-toggler {
+  margin-right: 13%;
 }
